@@ -1,0 +1,10 @@
+El resutado de 7 * 1 es: 7
+El resutado de 7 * 2 es: 14
+El resutado de 7 * 3 es: 21
+El resutado de 7 * 4 es: 28
+El resutado de 7 * 5 es: 35
+El resutado de 7 * 6 es: 42
+El resutado de 7 * 7 es: 49
+El resutado de 7 * 8 es: 56
+El resutado de 7 * 9 es: 63
+El resutado de 7 * 10 es: 70
